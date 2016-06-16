@@ -1,0 +1,2 @@
+managers=4 localhost:8081;5 localhost:8082
+suppliers=1 localhost:8083 100,200,300;2 localhost:8084 400,500,600;3 localhost:8085 700,800,900
